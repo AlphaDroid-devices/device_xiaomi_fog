@@ -65,6 +65,6 @@ SELINUX_IGNORE_NEVERALLOWS := false
 TARGET_INCLUDE_SIMPLE_TUNE := false
 
 # Maintainer
-ALPHA_BUILD_TYPE := Unofficial
+ALPHA_BUILD_TYPE := Official
 ALPHA_MAINTAINER := Romeo13card
 
